@@ -1,0 +1,14 @@
+Metric,Value
+Total RBs (2024),147
+Total RBs (2023),161
+Unique Players (2024),141
+Unique Players (2023),149
+Most Common ID Letter (2024),M
+Most Common ID Letter (2023),M
+Longest Player Name (2024),21
+Shortest Player Name (2024),8
+Average Name Length (2024),13.1
+Data Completeness (2024),"player       100.0
+player_id    100.0
+pfr_url      100.0
+dtype: float64%"

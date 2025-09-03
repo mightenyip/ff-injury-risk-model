@@ -5,7 +5,17 @@ This script implements injury risk prediction for NFL running backs and wide rec
 using logistic regression with spline terms to capture non-linear relationships.
 """
 
-import numpy as np
+# Check and install numpy if needed
+try:
+    import numpy as np
+except ImportError:
+    print("NumPy not found. Installing...")
+    import subprocess
+    import sys
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "numpy"])
+    import numpy as np
+    print("NumPy installed successfully!")
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
