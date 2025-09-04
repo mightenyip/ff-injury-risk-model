@@ -1,0 +1,39 @@
+
+=== STEP-BY-STEP SCRAPING INSTRUCTIONS ===
+
+1. OPEN MULTIPLE TABS:
+   - Open 664 browser tabs
+   - Copy URLs from: data/pfr_scraping_urls.csv
+   - Load each player's game log page
+
+2. SETUP THE SCRAPER:
+   - Open DevTools on any tab (F12 or Cmd+Option+I)
+   - Go to Console tab
+   - Copy the code from: pfr_scraper.js
+   - Paste and press Enter
+
+3. SCRAPE EACH TAB:
+   - Go to each tab
+   - Press F12 (or Cmd+Option+I) to open DevTools
+   - Go to Console tab
+   - Paste the JavaScript code and press Enter
+   - CSV will automatically download
+
+4. ORGANIZE DOWNLOADS:
+   - Move all CSV files to: data/weekly_raw/
+   - Files will be named: playerid_season_gamelog.csv
+
+5. PROCESS THE DATA:
+   - Run the data processing scripts to combine all CSVs
+   - Apply the injury risk model
+
+=== TIPS ===
+- Open 10-15 tabs at once to speed up the process
+- Use Cmd+Click (Mac) or Ctrl+Click (Windows) to open multiple tabs
+- The scraper will automatically detect the correct table format
+- Each CSV download includes the player ID and season in the filename
+
+=== EXPECTED OUTPUT ===
+- 664 CSV files with game log data
+- Each file contains rushing/receiving statistics per game
+- Data ready for injury risk model analysis
