@@ -1,0 +1,18 @@
+Rk,Gcar,Gtm,Week,Date,Team,Unnamed: 6,Opp,Result,GS,Att,Yds,TD,Y/A,Tgt,Rec,Yds.1,Y/R,TD.1,Ctch%,Y/Tgt,OffSnp,Off%,DefSnp,Def%,STSnp,ST%,player_id,season,source_file
+1.0,76.0,1.0,1.0,2023-09-10,CLE,,CIN,"W, 24-3",*,18.0,106.0,0.0,5.9,4.0,4.0,21.0,5.3,0.0,100.0,5.3,36.0,48.6,0.0,0.0,0.0,0.0,chubni00,2023,chubni00_2023_gamelog.csv
+2.0,77.0,2.0,2.0,2023-09-18,CLE,@,PIT,"L, 22-26",*,10.0,64.0,0.0,6.4,0.0,0.0,0.0,,0.0,,,18.0,20.7,0.0,0.0,0.0,0.0,chubni00,2023,chubni00_2023_gamelog.csv
+2.0,,3.0,3.0,2023-09-24,CLE,,TEN,"W, 27-3",Did Not Play,,,,,,,,,,,,,,,,,,chubni00,2023,chubni00_2023_gamelog.csv
+2.0,,4.0,4.0,2023-10-01,CLE,,BAL,"L, 3-28",Did Not Play,,,,,,,,,,,,,,,,,,chubni00,2023,chubni00_2023_gamelog.csv
+2.0,,5.0,6.0,2023-10-15,CLE,,SFO,"W, 19-17",Did Not Play,,,,,,,,,,,,,,,,,,chubni00,2023,chubni00_2023_gamelog.csv
+2.0,,6.0,7.0,2023-10-22,CLE,@,IND,"W, 39-38",Did Not Play,,,,,,,,,,,,,,,,,,chubni00,2023,chubni00_2023_gamelog.csv
+2.0,,7.0,8.0,2023-10-29,CLE,@,SEA,"L, 20-24",Did Not Play,,,,,,,,,,,,,,,,,,chubni00,2023,chubni00_2023_gamelog.csv
+2.0,,8.0,9.0,2023-11-05,CLE,,ARI,"W, 27-0",Did Not Play,,,,,,,,,,,,,,,,,,chubni00,2023,chubni00_2023_gamelog.csv
+2.0,,9.0,10.0,2023-11-12,CLE,@,BAL,"W, 33-31",Did Not Play,,,,,,,,,,,,,,,,,,chubni00,2023,chubni00_2023_gamelog.csv
+2.0,,10.0,11.0,2023-11-19,CLE,,PIT,"W, 13-10",Did Not Play,,,,,,,,,,,,,,,,,,chubni00,2023,chubni00_2023_gamelog.csv
+2.0,,11.0,12.0,2023-11-26,CLE,@,DEN,"L, 12-29",Did Not Play,,,,,,,,,,,,,,,,,,chubni00,2023,chubni00_2023_gamelog.csv
+2.0,,12.0,13.0,2023-12-03,CLE,@,LAR,"L, 19-36",Did Not Play,,,,,,,,,,,,,,,,,,chubni00,2023,chubni00_2023_gamelog.csv
+2.0,,13.0,14.0,2023-12-10,CLE,,JAX,"W, 31-27",Did Not Play,,,,,,,,,,,,,,,,,,chubni00,2023,chubni00_2023_gamelog.csv
+2.0,,14.0,15.0,2023-12-17,CLE,,CHI,"W, 20-17",Did Not Play,,,,,,,,,,,,,,,,,,chubni00,2023,chubni00_2023_gamelog.csv
+2.0,,15.0,16.0,2023-12-24,CLE,@,HOU,"W, 36-22",Did Not Play,,,,,,,,,,,,,,,,,,chubni00,2023,chubni00_2023_gamelog.csv
+2.0,,16.0,17.0,2023-12-28,CLE,,NYJ,"W, 37-20",Did Not Play,,,,,,,,,,,,,,,,,,chubni00,2023,chubni00_2023_gamelog.csv
+2.0,,17.0,18.0,2024-01-07,CLE,@,CIN,"L, 14-31",Did Not Play,,,,,,,,,,,,,,,,,,chubni00,2023,chubni00_2023_gamelog.csv

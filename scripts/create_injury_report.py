@@ -268,3 +268,4 @@ def create_injury_report():
 if __name__ == "__main__":
     create_injury_report()
 
+
